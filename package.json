@@ -1,0 +1,11 @@
+{
+  "name": "airswap_maker_client",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/RaviBlock8/airswap_maker_client.git",
+  "author": "RaviBlock8 <ravi83165@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@airswap/protocols": "^0.4.7"
+  }
+}
